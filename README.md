@@ -12,3 +12,6 @@ Pretty cool source code or otherwise.
 
 ## MongoDB
 - [ODMantic](https://art049.github.io/odmantic/) - Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation.
+
+## Productivity
+- [WakaTime](https://wakatime.com/) - Cool BI productivity tracker which tracks what IDE, project, language, etc is being worked on by the dev team in real time. Great looking analytics.
