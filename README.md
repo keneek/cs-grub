@@ -1,4 +1,4 @@
-# cs-grub
+# 🌮 Computer Science Grub
 Pretty cool source code or otherwise.
 
 ## ⏩ FastAPI
