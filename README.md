@@ -41,33 +41,33 @@ Great way to develop back end architecture in Python. Fast in many ways.
 
 ## 🙌 Blockchain R&D
 ### 🔬 General Research and Theory
-#### [Web3 Foundation](https://web3.foundation/) 
+- [Web3 Foundation](https://web3.foundation/) 
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
 ### 🆔 Self-Sovereign Identity
-#### [Hyperledger Foundation](https://www.hyperledger.org/use/hyperledger-indy)
+- [Hyperledger Foundation](https://www.hyperledger.org/use/hyperledger-indy)
 Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or otehr distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo.
 
-#### [The Sovrin Foundation](https://sovrin.org/)
+- [The Sovrin Foundation](https://sovrin.org/)
 The Sovrin Foundation is a nonprofit organization established to administer the Governance Framework governing the Sovrin Network, a public service utility enabling self-soverign identity on the internet.
 
-#### [Identity Foundation](https://identity.foundation/)
+- [Identity Foundation](https://identity.foundation/)
 A foundation developing foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices.
 
 ### 🏛 Construction Industry
-#### [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) 
+- [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) 
 This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
 
-#### [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
+- [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
 This group supports research and development in blockchain technology and services for the industry.
 
 Some white papers from their work:
 
-- 📑 [Blockchain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) 
+  - 📑 [Blockchain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) 
 
-- 📑 [Integrating Ethereum with Autodesk Forge](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf)
+  - 📑 [Integrating Ethereum with Autodesk Forge](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf)
 
-#### [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
+- [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
 An organization with proposed engines and protocols for the construction industry. Nonprofit.
 
 ## 🎧 Other Cool Stuff
