@@ -55,7 +55,7 @@ The Sovrin Foundation is a nonprofit organization established to administer the 
 A foundation developing foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices.
 
 ### 🏛 Construction Industry
-#### [The Innovation Bank](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) 
+#### [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) 
 This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
 
 #### [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
