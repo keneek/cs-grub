@@ -3,7 +3,7 @@ Excellent information, articles, tools, and other internet finds for building py
 
 *Note: popular languages for programming native chain or para chain (like Polkadot) requires knowledge of [Substrate](https://substrate.io/), [Rust](https://www.rust-lang.org/), [Node](https://nodejs.org/en/), and [Solidity](https://docs.soliditylang.org/en/v0.8.11/). We'll also include those references when Python libraries are non-performant or unavailable.*
 
-## 👾 Frameworks
+## 👾 Frameworks and Languages
 
 ### 👩‍🏭 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
@@ -32,20 +32,20 @@ A Polkadot para chain which where Solidity contracts can deploy and operate. Moo
 - [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) - A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
 
-### 💭 Blockchain Organizations 
-#### Technical Standards and Development
-##### [Web3 Foundation](https://web3.foundation/) 
+## 💭 Blockchain Organizations 
+### Technical Standards and Development
+#### [Web3 Foundation](https://web3.foundation/) 
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
-#### Architecture, Engineering, and Construction
-##### [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
+### Architecture, Engineering, and Construction
+#### [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
 This group supports research and development in blockchain technology and services for the industry.
 
 - 📄 White Paper: [Blockchain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) 
 
 - 📄 White Paper: [Integrating Ethereum with Autodesk Forge](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf) - White Paper
 
-#### [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
+### [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
 An organization with proposed engines and protocols for the construction industry. Nonprofit.
 
 ## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
