@@ -32,6 +32,13 @@ A Polkadot para chain which where Solidity contracts can deploy and operate. Moo
 - [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) - A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
 
+## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
+Great way to develop back end architecture in Python. Fast in many ways.
+
+- [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
+- 🌱 [ODMantic](https://art049.github.io/odmantic/) - Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation. Great shortcut tool for modeling mongo objects in a FastAPI application.
+- [Rent-to-Own Token on FastAPI](https://towardsdatascience.com/creating-an-ethereum-token-to-enable-a-decentralized-rent-to-own-network-cc3786cf1142) - Creating an Ethereum Token to Enable a Decentralized Rent-to-Own Network. 
+
 ## 🙌 Blockchain R&D
 ### 🔬 General Research and Theory
 #### [Web3 Foundation](https://web3.foundation/) 
@@ -60,13 +67,6 @@ This group supports research and development in blockchain technology and servic
 
 #### [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
 An organization with proposed engines and protocols for the construction industry. Nonprofit.
-
-## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
-Great way to develop back end architecture in Python. Fast in many ways.
-
-- [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
-- 🌱 [ODMantic](https://art049.github.io/odmantic/) - Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation. Great shortcut tool for modeling mongo objects in a FastAPI application.
-- [Rent-to-Own Token on FastAPI](https://towardsdatascience.com/creating-an-ethereum-token-to-enable-a-decentralized-rent-to-own-network-cc3786cf1142) - Creating an Ethereum Token to Enable a Decentralized Rent-to-Own Network. 
 
 ## 🎧 Other Cool Stuff
 - [WakaTime](https://wakatime.com/) - Cool BI productivity tracker tracks what IDE, project, language, etc., is being worked on by the dev team in real-time. Great looking analytics.
