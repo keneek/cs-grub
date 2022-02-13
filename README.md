@@ -1,7 +1,7 @@
 # 🌮 Block Chain Science Grub
 Cool source code for building applications with a focus on blockchain integrations, or otherwise.
 
-## 🧱 Web3
+## 👾 Web3
 ### 💭 Organizations 
 - [Web3 Foundation](https://web3.foundation/) - Research and development for organizations and teams building applications for web3.
 
