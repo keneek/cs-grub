@@ -37,6 +37,7 @@ The Substrate framework is a modular framework for custom blockchains built usin
 Polkadot is a cross-chain network built on the Substrate framework with powerful governance features and other features like para chains, etc.
 
 - [Polkadot Governance](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24734s) Dr. Gavin Wood presents the initial governance structure for Polkadot. (Video)
+- [Polkadot Paper](https://polkadot.network/PolkaDotPaper.pdf) Dr. Gavin Wood's `Polkadot Paper` about Polkadot introducing para chains and other new ideas for governance, proof of stake (*nominated proof of stake*), and other novel ideas about exensible block chain future.
 
 #### 🌕 [Moonbeam](https://docs.moonbeam.network/)
 A Polkadot para chain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including web3.py, etc., and interact on the chain with virtually the same source code used for an Ethereum smart contract, but includes the benefit of the para chain features of Polkadot.
