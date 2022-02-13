@@ -14,7 +14,6 @@ Substrate sits on Rust, so implementing Substrate requires working knowledge of 
 The Substrate framework is a modular framework for custom blockchains built using Rust and Wasm. Very powerful runtime, which includes **on-chain upgrades** (the run time source is stored on chain and can be updated on chain).
 
 - [Intro to Substrate Crowdcast](https://www.youtube.com/watch?v=-6BBIr-DmI4) Great video describing the Substrate framework and constructing the runtime with pallets.
-- 
 - [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) Learn to Build a Custom Blockchain
 
 ### ⚪️ [Polkadot](polkadot.network)
