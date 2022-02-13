@@ -37,8 +37,20 @@ A Polkadot para chain which where Solidity contracts can deploy and operate. Moo
 #### [Web3 Foundation](https://web3.foundation/) 
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
-### 🏛 Architecture, Engineering, and Construction
-#### [The Innovation Bank](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) is a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
+### 🆔 Self-Sovereign Identity
+#### [Hyperledger Foundation](https://www.hyperledger.org/use/hyperledger-indy)
+Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or otehr distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo.
+
+#### [The Sovrin Foundation](https://sovrin.org/)
+The Sovrin Foundation is a nonprofit organization established to administer the Governance Framework governing the Sovrin Network, a public service utility enabling self-soverign identity on the internet.
+
+#### [Identity Foundation](https://identity.foundation/)
+A foundation developing foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices.
+
+### 🏛 Construction Industry
+#### [The Innovation Bank](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) 
+This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
+
 #### [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
 This group supports research and development in blockchain technology and services for the industry.
 
