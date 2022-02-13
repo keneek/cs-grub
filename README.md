@@ -22,9 +22,7 @@ A Polkadot parachain which where Solidity contracts can deploy and operate. Moon
 ## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
 Great way to develop back end architecture in Python. Fast in many ways.
 - [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
-
-## 🌱 MongoDB
-- [ODMantic](https://art049.github.io/odmantic/) - Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation.
+- 🌱 [ODMantic](https://art049.github.io/odmantic/) - Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation. Great shortcut tool for modeling mongo objects in a FastAPI application.
 
 ## 🎧 Productivity
 - [WakaTime](https://wakatime.com/) - Cool BI productivity tracker which tracks what IDE, project, language, etc is being worked on by the dev team in real time. Great looking analytics.
