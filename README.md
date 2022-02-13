@@ -1,10 +1,19 @@
-# 🌮 Web3 Grub for Python-Leaning Developers
-Excellent information, articles, tools, and other internet finds for building python-based applications focused on blockchain integrations.
+# 🌮 Web3 Grub for Developers
+Excellent information, articles, tools, and other internet finds for building applications focused on blockchain integrations. This list favors python when possible.
 
-*Note: popular languages for programming native chain or para chain (like Polkadot) requires knowledge of [Substrate](https://substrate.io/), [Rust](https://www.rust-lang.org/), [Node](https://nodejs.org/en/), and [Solidity](https://docs.soliditylang.org/en/v0.8.11/). We'll also include those references when Python libraries are non-performant or unavailable.*
+If you are just starting this journey, be prepared to take on [Solidity](https://docs.soliditylang.org/en/v0.8.11/) and [Rust](https://www.rust-lang.org/). It may be best to start in Solidity and familiarize yourself with smart contracts on the Ethereum network. Many of those tools will be applicable if you decide to move from contract development into chain dev with [Substrate](https://substrate.io/). 
+
+*Note: popular languages for programming native chain or para chain (like Polkadot) requires knowledge of [Substrate](https://substrate.io/), [Rust](https://www.rust-lang.org/), [Node](https://nodejs.org/en/), and [Solidity](https://docs.soliditylang.org/en/v0.8.11/). That said, this list is python-leaning and includes references when Python packages when unavailable (eg `web3.py`, `FastAPI`, etc).*
 
 ## 👾 Frameworks and Languages
 
+### 💠 [Etherium Development](https://ethereum.org/en/)
+- [Solidity](https://docs.soliditylang.org/en/v0.8.11/) Solidity is an object-oriented, high-level lanugage for implimenting smart contracts.
+- [ERC20 Quick Video](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
+- [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
+- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
+- [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
+- 
 ### 👩‍🏭 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
 
@@ -24,12 +33,6 @@ Polkadot is a cross-chain network built on the Substrate framework with powerful
 #### 🌕 [Moonbeam](https://docs.moonbeam.network/)
 A Polkadot para chain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including web3.py, etc., and interact on the chain with virtually the same source code used for an Ethereum smart contract, but includes the benefit of the para chain features of Polkadot.
 - [Moonbeam, Remix, OpenZeppelin](https://docs.moonbeam.network/builders/interact/oz-remix/) Using OpenZeppelin Contracts and Remiz to Deploy To Moonbeam.
-
-### 💠 [Etherium](https://ethereum.org/en/)
-- [ERC20 Quick Video](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
-- [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
-- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
-- [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
 
 ## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
 Great way to develop back end architecture in Python. Fast in many ways.
