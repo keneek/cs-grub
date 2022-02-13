@@ -34,7 +34,7 @@ A Polkadot para chain which where Solidity contracts can deploy and operate. Moo
 
 ## 🙌 Blockchain Organizations 
 ### 🔬 General Research and Theory
-#### 💆🏽‍♀️ [Web⓷ Foundation](https://web3.foundation/) 
+#### [Web3 Foundation](https://web3.foundation/) 
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
 ### 🏛 Architecture, Engineering, and Construction
