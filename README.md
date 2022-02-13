@@ -8,8 +8,9 @@ Note: popular languages for programming native chain or parachain (like Polkadot
 - [Web3 Foundation](https://web3.foundation/) - Research and development for organizations and teams building applications for web3.
 
 ### Substrate
-A framework for building blockchains built using Rust and Wasm.
-➖ [Substrate](https://www.youtube.com/watch?v=-6BBIr-DmI4) - Great video describing the Substrate framework and how to construct the runtime with pallets. 
+A framework for building blockchains built using Rust and Wasm. Very powerful runtime which includes **on chain upgrades**.
+
+- [Intro to Substrate Crowdcast](https://www.youtube.com/watch?v=-6BBIr-DmI4) - Great video describing the Substrate framework and how to construct the runtime with pallets. 
 
 ### ⚪️ [Polkadot](polkadot.network)
 A cross-chain network built on Substrate framework for creating of new parachains. 
