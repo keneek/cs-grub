@@ -32,12 +32,13 @@ A Polkadot para chain which where Solidity contracts can deploy and operate. Moo
 - [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) - A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
 
-## 🙌 Blockchain Organizations 
+## 🙌 Blockchain R&D
 ### 🔬 General Research and Theory
 #### [Web3 Foundation](https://web3.foundation/) 
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
 ### 🏛 Architecture, Engineering, and Construction
+#### [The Innovation Bank](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) is a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
 #### [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
 This group supports research and development in blockchain technology and services for the industry.
 
