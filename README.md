@@ -63,7 +63,7 @@ This group supports research and development in blockchain technology and servic
 
 - 📑 White Paper: [Blockchain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) 
 
-- 📑 White Paper: [Integrating Ethereum with Autodesk Forge](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf) - White Paper
+- 📑 White Paper: [Integrating Ethereum with Autodesk Forge](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf)
 
 #### [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
 An organization with proposed engines and protocols for the construction industry. Nonprofit.
