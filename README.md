@@ -8,36 +8,36 @@ Excellent information, articles, tools, and other internet finds for building py
 ### 👩‍🏭 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
 
-- [The Rust Programming Language Book](https://doc.rust-lang.org/book/) - Read the first three chapters before diving into Substrate if you are unfamiliar with Rust.
+- [The Rust Programming Language Book](https://doc.rust-lang.org/book/) Read the first three chapters before diving into Substrate if you are unfamiliar with Rust.
 
 ### _ [Substrate](https://substrate.io/)
 The Substrate framework is a modular framework for custom blockchains built using Rust and Wasm. Very powerful runtime, which includes **on-chain upgrades** (the run time source is stored on chain and can be updated on chain).
 
-- [Intro to Substrate Crowdcast](https://www.youtube.com/watch?v=-6BBIr-DmI4) - Great video describing the Substrate framework and constructing the runtime with pallets.
+- [Intro to Substrate Crowdcast](https://www.youtube.com/watch?v=-6BBIr-DmI4) Great video describing the Substrate framework and constructing the runtime with pallets.
 - 
-- [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) - Learn to Build a Custom Blockchain
+- [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) Learn to Build a Custom Blockchain
 
 ### ⚪️ [Polkadot](polkadot.network)
 Polkadot is a cross-chain network built on the Substrate framework with powerful governance features and other features like para chains, etc.
 
-- [Polkadot Governance](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24734s) - Dr. Gavin Wood presents the initial governance structure for Polkadot. (Video)
+- [Polkadot Governance](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24734s) Dr. Gavin Wood presents the initial governance structure for Polkadot. (Video)
 
 #### 🌕 [Moonbeam](https://docs.moonbeam.network/)
 A Polkadot para chain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including web3.py, etc., and interact on the chain with virtually the same source code used for an Ethereum smart contract, but includes the benefit of the para chain features of Polkadot.
-- [Moonbeam, Remix, OpenZeppelin](https://docs.moonbeam.network/builders/interact/oz-remix/) - Using OpenZeppelin Contracts and Remiz to Deploy To Moonbeam.
+- [Moonbeam, Remix, OpenZeppelin](https://docs.moonbeam.network/builders/interact/oz-remix/) Using OpenZeppelin Contracts and Remiz to Deploy To Moonbeam.
 
 ### 💠 [Etherium](https://ethereum.org/en/)
-- [ERC20 Quick Video](https://www.youtube.com/watch?v=8rpir_ZSK1g) - Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
+- [ERC20 Quick Video](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
 - [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
-- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) - A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
+- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
 
 ## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
 Great way to develop back end architecture in Python. Fast in many ways.
 
-- [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
-- 🌱 [ODMantic](https://art049.github.io/odmantic/) - Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation. Great shortcut tool for modeling mongo objects in a FastAPI application.
-- [Rent-to-Own Token on FastAPI](https://towardsdatascience.com/creating-an-ethereum-token-to-enable-a-decentralized-rent-to-own-network-cc3786cf1142) - Creating an Ethereum Token to Enable a Decentralized Rent-to-Own Network. 
+- [User Management](https://github.com/fastapi-users/fastapi-users) Quickly add registration and authentication for FastAPI projects.
+- 🌱 [ODMantic](https://art049.github.io/odmantic/) Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation. Great shortcut tool for modeling mongo objects in a FastAPI application.
+- [Rent-to-Own Token on FastAPI](https://towardsdatascience.com/creating-an-ethereum-token-to-enable-a-decentralized-rent-to-own-network-cc3786cf1142) Creating an Ethereum Token to Enable a Decentralized Rent-to-Own Network. 
 
 ## 🙌 Blockchain R&D
 ### 🔬 General Research and Theory
@@ -45,21 +45,16 @@ Great way to develop back end architecture in Python. Fast in many ways.
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
 ### 🆔 Self-Sovereign Identity
-- [Hyperledger Foundation](https://www.hyperledger.org/use/hyperledger-indy)
-Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or otehr distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo.
+- [Hyperledger Foundation](https://www.hyperledger.org/use/hyperledger-indy) Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or otehr distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo.
 
-- [The Sovrin Foundation](https://sovrin.org/)
-The Sovrin Foundation is a nonprofit organization established to administer the Governance Framework governing the Sovrin Network, a public service utility enabling self-soverign identity on the internet.
+- [The Sovrin Foundation](https://sovrin.org/) The Sovrin Foundation is a nonprofit organization established to administer the Governance Framework governing the Sovrin Network, a public service utility enabling self-soverign identity on the internet.
 
-- [Identity Foundation](https://identity.foundation/)
-A foundation developing foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices.
+- [Identity Foundation](https://identity.foundation/) A foundation developing foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices.
 
-### 🏛 Construction Industry
-- [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) 
-This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
+### 👷🏾‍♂️ Decentralized Construction
+- 📑 [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
 
-- [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
-This group supports research and development in blockchain technology and services for the industry. Some white papers from their work:
+- [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/) This group supports research and development in blockchain technology and services for the industry. Some white papers from their work:
     - 📑 [Blockchain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) 
     - 📑 [Integrating Ethereum with Autodesk Forge](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf)
 
