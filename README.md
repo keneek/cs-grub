@@ -1,9 +1,9 @@
-# 🌮 Blockchain Grub for Python-Leaning Developers
+# 🌮 Web3 Grub for Python-Leaning Developers
 Excellent information, articles, tools, and other internet finds for building python-based applications focused on blockchain integrations.
 
 *Note: popular languages for programming native chain or para chain (like Polkadot) requires knowledge of [Substrate](https://substrate.io/), [Rust](https://www.rust-lang.org/), [Node](https://nodejs.org/en/), and [Solidity](https://docs.soliditylang.org/en/v0.8.11/). We'll also include those references when Python libraries are non-performant or unavailable.*
 
-## 👾 Web3 / Blockchain
+## 👾 Frameworks
 
 ### 👩‍🏭 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
