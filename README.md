@@ -24,6 +24,8 @@ The Substrate framework is a modular framework for custom blockchains built usin
 
 - [Intro to Substrate Crowdcast](https://www.youtube.com/watch?v=-6BBIr-DmI4) Great video describing the Substrate framework and constructing the runtime with pallets.
 - [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) Learn to Build a Custom Blockchain
+- [Substrate How-to Guides](https://docs.substrate.io/how-to-guides/v3/) Includes guidance on building recipes, other exmaples.
+- [Substrate Recipes](https://substrate.recipes/) a hands-on cookbook for aspiring blockchain chefs. Author also published a repo of example [recipes](https://github.com/JoshOrndorff/recipes) . 
 
 ### ⚪️ [Polkadot](polkadot.network)
 Polkadot is a cross-chain network built on the Substrate framework with powerful governance features and other features like para chains, etc.
