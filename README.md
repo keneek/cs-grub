@@ -5,7 +5,7 @@ Cool source code for building applications with a focus on blockchain integratio
 - [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
 
 ## 🧱 Web3
-### 🧠 Organizations 
+### 💭 Organizations 
 - [Web3 Foundation](https://web3.foundation/) - Research and development for organizations and teams building applications for web3.
 
 ### 💠 Etherium
