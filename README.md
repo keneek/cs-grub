@@ -15,7 +15,7 @@ Pretty cool source code or otherwise.
 A cross-chain network built on Substrate framework for creating of new parachains. 
 
 #### 🌕 [Moonbeam](https://docs.moonbeam.network/)
-A Polkadot parachain which where Solidity contracts can deploy and operate.
+A Polkadot parachain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including `web3.py` etc. and interact on the chain with virtually the same source code used for an Etherium smart contract; but includes the benefit of the parachain features of Polkadot.
 - [Moonbeam, Remix, OpenZeppelin](https://docs.moonbeam.network/builders/interact/oz-remix/) - Using OpenZeppelin Contracts and Remiz to Deploy To Moonbeam.
 
 
