@@ -34,7 +34,7 @@ A Polkadot para chain which where Solidity contracts can deploy and operate. Moo
 
 ## 💭 Blockchain Organizations 
 ### 🔬 General Research and Theory
-#### 💆🏽‍♀️ ⓷[Web3 Foundation](https://web3.foundation/) 
+#### 💆🏽‍♀️ [Web⓷ Foundation](https://web3.foundation/) 
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
 ### 🏛 Architecture, Engineering, and Construction
@@ -45,7 +45,7 @@ This group supports research and development in blockchain technology and servic
 
 - 📄 White Paper: [Integrating Ethereum with Autodesk Forge](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf) - White Paper
 
-### [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
+#### [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
 An organization with proposed engines and protocols for the construction industry. Nonprofit.
 
 ## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
