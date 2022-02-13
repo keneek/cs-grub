@@ -7,6 +7,11 @@ Note: popular languages for programming native chain or parachain (like Polkadot
 ### 💭 Organizations 
 - [Web3 Foundation](https://web3.foundation/) - Research and development for organizations and teams building applications for web3.
 
+### 👩‍🏭 [Rust](https://www.rust-lang.org/)
+Since Subtrate is built on Rust, using it requires working knowledge of the language. Below are some resources to get things going.
+
+- [The Rust Programming Language Book](https://doc.rust-lang.org/book/) - Read the first three chapters before diving into Substrate if you are unfamiliar with Rust.
+
 ### _ [Substrate](https://substrate.io/)
 Substrate is a modular framework for building custom blockchains built using Rust and Wasm. Very powerful runtime which includes **on chain upgrades**.
 
