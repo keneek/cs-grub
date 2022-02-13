@@ -1,5 +1,5 @@
-# 🌮 Computer Science Grub
-Pretty cool source code or otherwise.
+# 🌮 Block Chain Science Grub
+Cool source code for building applications with a focus on blockchain integrations, or otherwise.
 
 ## ⏩ FastAPI
 - [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
