@@ -8,11 +8,16 @@ If you are just starting this journey, be prepared to take on [Solidity](https:/
 ## 👾 Fundamentals for Web3
 
 ### 💠 [Etherium Development](https://ethereum.org/en/)
+#### 🧰 Tools
 - [Solidity](https://docs.soliditylang.org/en/v0.8.11/) Solidity is an object-oriented, high-level lanugage for implimenting smart contracts.
-- [ERC20 Quick Video](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
 - [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
-- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
+- [openzeppelin](https://openzeppelin.com/) has a library of open sourced, battle-tested Solidity contracts with dev tools to help understand how to compile, deploy, and test them.
+
+#### 🧑🏻‍🏫 Useful Tutorials
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
+- [ERC20](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
+- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
+
 
 ### 👩‍🏭 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
