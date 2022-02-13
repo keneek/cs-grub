@@ -33,10 +33,14 @@ A Polkadot parachain which where Solidity contracts can deploy and operate. Moon
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) - Good reference for a modern development setup.
 
 ### 💭 Blockchain Organizations 
+#### Technical Standards and Development
 - [Web3 Foundation](https://web3.foundation/) - Research and development for organizations and teams building applications for web3.
+
+#### Architecture, Engineering, and Construction
 - [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/) -  A consortium supporting research and development in things related to blockchain technology and services for the industry. 
   - 📄 [Blockchain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) - White Paper
   - 📄 [Integrating Ethereum with Autodesk Forge](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf) - White Paper
+- [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/) - Proposed engine and protocols for construction industry. Non profit.
 
 ## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
 Great way to develop back end architecture in Python. Fast in many ways.
