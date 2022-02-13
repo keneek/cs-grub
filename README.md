@@ -7,6 +7,7 @@ Cool information, articles, tools, and other internet finds for building python-
 
 ### ⚪️ [Polkadot](polkadot.network)
 A cross-chain network built on Substrate framework for creating of new parachains. 
+- [Polkadot Governance](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24734s) - Dr. Gavin Wood presents the initial governance structure for Polkadot. (Video)
 
 #### 🌕 [Moonbeam](https://docs.moonbeam.network/)
 A Polkadot parachain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including `web3.py` etc. and interact on the chain with virtually the same source code used for an Etherium smart contract; but includes the benefit of the parachain features of Polkadot.
