@@ -4,8 +4,6 @@ Cool information, articles, tools, and other internet finds for building python-
 Note: popular languages for programming native chain or parachain (like Polkadot) requires knowledge of [Substrate](https://substrate.io/), [Rust](https://www.rust-lang.org/), [Node](https://nodejs.org/en/), and [Solidity](https://docs.soliditylang.org/en/v0.8.11/). We'll also be including those references when Python libraries are non-performant or not available.
 
 ## 👾 Web3 / Blockchain
-### 💭 Organizations 
-- [Web3 Foundation](https://web3.foundation/) - Research and development for organizations and teams building applications for web3.
 
 ### 👩‍🏭 [Rust](https://www.rust-lang.org/)
 Since Subtrate is built on Rust, using it requires working knowledge of the language. Below are some resources to get things going.
@@ -34,6 +32,9 @@ A Polkadot parachain which where Solidity contracts can deploy and operate. Moon
 - [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) - A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) - Good reference for a modern development setup.
 
+### 💭 Blockchain Organizations 
+- [Web3 Foundation](https://web3.foundation/) - Research and development for organizations and teams building applications for web3.
+- [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/) -  A consortium supporting research and development in things related to blockchain technology and services for the industry. 
 ## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
 Great way to develop back end architecture in Python. Fast in many ways.
 - [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
