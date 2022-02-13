@@ -1,5 +1,5 @@
-# 🌮 Block Chain Science Grub
-Cool source code for building applications with a focus on blockchain integrations, or otherwise.
+# 🌮 Blockchain Grub for Python Developers
+Cool information, articles, tools, and other internet finds for building python-based applications with a focus on blockchain integrations.
 
 ## 👾 Web3 / Blockchain
 ### 💭 Organizations 
@@ -19,7 +19,8 @@ A Polkadot parachain which where Solidity contracts can deploy and operate. Moon
 - [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) - A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) - Good reference for a modern development setup.
 
-## ⏩ FastAPI
+## ⏩ [FastAPI](https://fastapi.tiangolo.com/)
+Great way to develop back end architecture in Python. Fast in many ways.
 - [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
 
 ## 🌱 MongoDB
