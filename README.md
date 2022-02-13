@@ -24,7 +24,7 @@ Substrate sits on Rust, so implementing Substrate requires working knowledge of 
 
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/) Read the first three chapters before diving into Substrate if you are unfamiliar with Rust.
 
-### _ [Substrate_](https://substrate.io/)
+### ⚗️ [Substrate_](https://substrate.io/)
 The Substrate framework is a modular framework for custom blockchains built using Rust and Wasm. Very powerful runtime, which includes **on-chain upgrades** (the run time source is stored on chain and can be updated on chain).
 
 - [Intro to Substrate Crowdcast](https://www.youtube.com/watch?v=-6BBIr-DmI4) Great video describing the Substrate framework and constructing the runtime with pallets.
