@@ -11,6 +11,7 @@ Note: popular languages for programming native chain or parachain (like Polkadot
 Substrate is a modular framework for building custom blockchains built using Rust and Wasm. Very powerful runtime which includes **on chain upgrades**.
 
 - [Intro to Substrate Crowdcast](https://www.youtube.com/watch?v=-6BBIr-DmI4) - Great video describing the Substrate framework and how to construct the runtime with pallets. 
+- [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) - Learn to Build a Custom Blockchain
 
 ### ⚪️ [Polkadot](polkadot.network)
 A cross-chain network built on Substrate framework with powerful governance features and other features like parachains, etc.
