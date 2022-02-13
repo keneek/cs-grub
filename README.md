@@ -13,7 +13,7 @@ If you are just starting this journey, be prepared to take on [Solidity](https:/
 - [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
 - [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
-- 
+
 ### 👩‍🏭 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
 
