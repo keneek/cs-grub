@@ -5,7 +5,7 @@ If you are just starting this journey, be prepared to take on [Solidity](https:/
 
 *Note: popular languages for programming native chain or para chain (like Polkadot) requires knowledge of [Substrate](https://substrate.io/), [Rust](https://www.rust-lang.org/), [Node](https://nodejs.org/en/), and [Solidity](https://docs.soliditylang.org/en/v0.8.11/). That said, this list is python-leaning and includes references when Python packages when unavailable (eg `web3.py`, `FastAPI`, etc).*
 
-## 👾 Frameworks and Languages
+## 👾 Fundamentals for Web3
 
 ### 💠 [Etherium Development](https://ethereum.org/en/)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.11/) Solidity is an object-oriented, high-level lanugage for implimenting smart contracts.
