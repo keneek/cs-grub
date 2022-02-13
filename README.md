@@ -25,5 +25,6 @@ Great way to develop back end architecture in Python. Fast in many ways.
 - [User Management](https://github.com/fastapi-users/fastapi-users) - Quickly add registration and authentication for FastAPI projects.
 - 🌱 [ODMantic](https://art049.github.io/odmantic/) - Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation. Great shortcut tool for modeling mongo objects in a FastAPI application.
 
-## 🎧 Productivity
+## 🎧 Other Cool Stuff
 - [WakaTime](https://wakatime.com/) - Cool BI productivity tracker which tracks what IDE, project, language, etc is being worked on by the dev team in real time. Great looking analytics.
+- [libp2p](https://libp2p.io/) - Run your network applications free from runtime and address services, independently of their location.
