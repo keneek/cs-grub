@@ -33,15 +33,15 @@ A Polkadot para chain which where Solidity contracts can deploy and operate. Moo
 - [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
 
 ## 💭 Blockchain Organizations 
-### Technical Standards and Development
-#### [Web3 Foundation](https://web3.foundation/) 
+### 🔬 General Research and Theory
+#### 💆🏽‍♀️ ⓷[Web3 Foundation](https://web3.foundation/) 
 Web3 Foundation contributes to and funds research and development in web3 technology.
 
-### Architecture, Engineering, and Construction
+### 🏛 Architecture, Engineering, and Construction
 #### [Construction Blockchain Constortium](https://www.linkedin.com/company/construction-blockchain/)
 This group supports research and development in blockchain technology and services for the industry.
 
-- 📄 White Paper: [Blockchain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) 
+- 📄 White Paper: [Blockch🧑🏽‍ain & Construction Cashflow](https://static1.squarespace.com/static/58b6047520099e545622d498/t/5fdb6089ad5a0604f7feaf5e/1608212649913/CBC2020-WP1_Cashflow.pdf) 
 
 - 📄 White Paper: [Integrating Ethereum with Autodesk Forge](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://static1.squarespace.com/static/58b6047520099e545622d498/t/5ef5fbbfe2d6737ff9ecb2f0/1593179078269/CBC-CS1_AutodeskForge_PDF-Version.pdf) - White Paper
 
