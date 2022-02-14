@@ -40,6 +40,7 @@ Ink is Parity's contract writing language for Substrate based block chain.
 ### ⚪️ [Polkadot](https://www.polkadot.network)
 Polkadot is a cross-chain network built on the Substrate framework with powerful governance features and other features like para chains, etc.
 
+- [What is Polkadot?](https://www.youtube.com/watch?v=YlAdEQp6ekM&feature=youtu.be) DOT explained with animations.
 - [Polkadot Governance](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24734s) Dr. Gavin Wood presents the initial governance structure for Polkadot. (Video)
 - [Polkadot Paper](https://polkadot.network/PolkaDotPaper.pdf) Dr. Gavin Wood's `Polkadot Paper` about Polkadot introducing para chains and other new ideas for governance, proof of stake (*nominated proof of stake*), and other novel ideas about exensible block chain future.
 
