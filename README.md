@@ -7,6 +7,14 @@ If you are just starting this journey, be prepared to take on [Solidity](https:/
 
 ## 👾 Fundamentals for Web3
 
+### 📺 Introduction to Blockchain
+- [What is a Blockchain?](https://www.youtube.com/watch?v=kHybf1aC-jE) Explanation of blocks, and how they are chained together.
+- [What is a Wallet?](https://www.youtube.com/watch?v=SQyg9pyJ1Ac) Quick explainer about wallets
+- [What is Ethereum Gas?](https://www.youtube.com/watch?v=3ehaSqwUZ0s) Explainer for Ethereum Gas
+- [Crypto Coin vs Token?](https://www.youtube.com/watch?v=422HORNUfkU) Understanding tokens as more than just money.
+- [What is Polkadot?](https://www.youtube.com/watch?v=YlAdEQp6ekM&feature=youtu.be) DOT explained with animations.
+
+
 ### 💠 [Etherium](https://ethereum.org/en/)
 #### 🧰 Tools
 - [Solidity](https://docs.soliditylang.org/en/v0.8.11/) Solidity is an object-oriented, high-level lanugage for implimenting smart contracts.
