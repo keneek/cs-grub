@@ -7,7 +7,8 @@ If you are just starting this journey, be prepared to take on [Solidity](https:/
 
 ## 👾 Fundamentals for Web3
 
-### 📺 Introduction to Blockchain
+### 📺 [Introduction to Blockchain](https://www.youtube.com/channel/UCsYYksPHiGqXHPoHI-fm5sg)
+If you already understand these concepts, just skip to the lists below. These are a few videos from the Youtube channel [Whiteboard Crypto](https://www.youtube.com/channel/UCsYYksPHiGqXHPoHI-fm5sg) which has easy-to-understand explainer videos about the technology.
 - [What is a Blockchain?](https://www.youtube.com/watch?v=kHybf1aC-jE) Explanation of blocks, and how they are chained together.
 - [What is a Wallet?](https://www.youtube.com/watch?v=SQyg9pyJ1Ac) Quick explainer about wallets
 - [What is Ethereum Gas?](https://www.youtube.com/watch?v=3ehaSqwUZ0s) Explainer for Ethereum Gas
