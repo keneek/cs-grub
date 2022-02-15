@@ -67,7 +67,7 @@ Great way to develop back end architecture in Python. Fast in many ways.
 - 🌱 [ODMantic](https://art049.github.io/odmantic/) Async document mapper for MongoDB based on python type hints, built on pydantic for model definition and validation. Great shortcut tool for modeling mongo objects in a FastAPI application.
 - [Rent-to-Own Token on FastAPI](https://towardsdatascience.com/creating-an-ethereum-token-to-enable-a-decentralized-rent-to-own-network-cc3786cf1142) Creating an Ethereum Token to Enable a Decentralized Rent-to-Own Network. 
 
-## [React]
+## ➬ [React](https://reactjs.org/)
 Some tools to help build a quick front end for the application.
 -[Semantic UI](https://react.semantic-ui.com/usage) The official Semantic-Ui-React integration
 
