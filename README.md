@@ -42,6 +42,7 @@ The Substrate framework is a modular framework for custom blockchains built usin
 - [Substrate How-to Guides](https://docs.substrate.io/how-to-guides/v3/) Includes guidance on building recipes, other exmaples.
 - [Substrate Recipes](https://substrate.recipes/) a hands-on cookbook for aspiring blockchain chefs, by [Josh Orndorff](https://github.com/JoshOrndorff). Josh Orndorff also published a repo of example [recipes](https://github.com/JoshOrndorff/recipes).
 - [Substrate Developer Hub](https://github.com/substrate-developer-hub) Repo's and tools for the dev community.
+- [Substrate Community Questions](https://substrate.stackexchange.com/) StackExchange account targeted toward answering questions about Substrate.
 
 ### 🖋 [ink](https://github.com/paritytech/ink)!
 Ink is Parity's contract writing language for Substrate based block chain.
