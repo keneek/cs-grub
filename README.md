@@ -60,7 +60,7 @@ Polkadot is a cross-chain network built on the Substrate framework with powerful
 A Polkadot para chain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including web3.py, etc., and interact on the chain with virtually the same source code used for an Ethereum smart contract, but includes the benefit of the para chain features of Polkadot.
 - [Moonbeam, Remix, OpenZeppelin](https://docs.moonbeam.network/builders/interact/oz-remix/) Using OpenZeppelin Contracts and Remiz to Deploy To Moonbeam.
 
-### 💫 [Holochain](https://developer.holochain.org/concepts/) New framework.
+### 💫 [Holochain](https://developer.holochain.org/concepts/)
 ### 💽 [IPFS](https://ipfs.io/)
 A peer-to-peer hypermedia protocol for distributed data storage with unique finger prints. Use cases include archivists, researchhers, blockchain developers, content creators, offlien users, and more.
 
