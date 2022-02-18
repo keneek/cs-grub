@@ -39,6 +39,7 @@ The Substrate framework is a modular framework for custom blockchains built usin
 
 - [Intro to Substrate](https://www.youtube.com/watch?v=-6BBIr-DmI4) Great crowdcast describing the Substrate framework and constructing the runtime with pallets.
 - [Blockchain Framework in Rust - Workshop](https://www.youtube.com/watch?v=NrG3co6UWEg) 16 Feb 2022 livestream of using substrate to build blockchain with substrate.
+    - [Denver Substrate Collectables Workshop](https://sacha-l.github.io/collectables-ethdenver-workshop/#/) the workshop documentation for the link above.
 - [Official Substrate Tutorials](https://docs.substrate.io/tutorials/v3/) is a series of the official Substrate tutorials with great examples and use cases.
 - [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) Learn to Build a Custom Blockchain
 - [Substrate How-to Guides](https://docs.substrate.io/how-to-guides/v3/) Includes guidance on building recipes, other exmaples.
