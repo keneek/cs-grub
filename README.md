@@ -38,14 +38,19 @@ Substrate sits on Rust, so implementing Substrate requires working knowledge of 
 The Substrate framework is a modular framework for custom blockchains built using Rust and Wasm. Very powerful runtime, which includes **on-chain upgrades** (the run time source is stored on chain and can be updated on chain).
 
 - [Intro to Substrate](https://www.youtube.com/watch?v=-6BBIr-DmI4) Great crowdcast describing the Substrate framework and constructing the runtime with pallets.
+- [Substrate Developer Hub](https://github.com/substrate-developer-hub) Repo's and tools for the dev community.
+- [Substrate Community Questions](https://substrate.stackexchange.com/) StackExchange account targeted toward answering questions about Substrate.
+
+#### Useful Workshops
+##### Recent and up to date
 - [Blockchain Framework in Rust - Workshop](https://www.youtube.com/watch?v=NrG3co6UWEg) 16 Feb 2022 livestream of using substrate to build blockchain with substrate.
     - [Denver Substrate Collectables Workshop](https://sacha-l.github.io/collectables-ethdenver-workshop/#/) the workshop documentation for the link above.
 - [Official Substrate Tutorials](https://docs.substrate.io/tutorials/v3/) is a series of the official Substrate tutorials with great examples and use cases.
+
+##### Useful, somewhat dated:
 - [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) Learn to Build a Custom Blockchain
 - [Substrate How-to Guides](https://docs.substrate.io/how-to-guides/v3/) Includes guidance on building recipes, other exmaples.
 - [Substrate Recipes](https://substrate.recipes/) a hands-on cookbook for aspiring blockchain chefs, by [Josh Orndorff](https://github.com/JoshOrndorff). Josh Orndorff also published a repo of example [recipes](https://github.com/JoshOrndorff/recipes).
-- [Substrate Developer Hub](https://github.com/substrate-developer-hub) Repo's and tools for the dev community.
-- [Substrate Community Questions](https://substrate.stackexchange.com/) StackExchange account targeted toward answering questions about Substrate.
 
 ### 🖋 [ink](https://github.com/paritytech/ink)!
 Ink is Parity's contract writing language for Substrate based block chain.
