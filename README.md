@@ -14,7 +14,7 @@ If you already understand these concepts, just skip to the lists below. These ar
 - [What is Ethereum Gas?](https://www.youtube.com/watch?v=3ehaSqwUZ0s) Explainer for Ethereum Gas
 - [Crypto Coin vs Token?](https://www.youtube.com/watch?v=422HORNUfkU) Understanding tokens as more than just money.
 - [What is Polkadot?](https://www.youtube.com/watch?v=YlAdEQp6ekM&feature=youtu.be) DOT explained with animations.
-- [General Theory](https://tokens-economy.gitbook.io/consensus/chain-based-proof-of-stake/delegated-proof-of-stake-dpos) Tokens economy information including consensus methods, etc.
+- [Blockchain Consensus Mechanisms](https://tokens-economy.gitbook.io/consensus/) Tokens economy information regarding the kinds of consensus methods known.
 
 
 ### 💠 [Etherium](https://ethereum.org/en/)
