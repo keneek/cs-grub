@@ -90,6 +90,7 @@ Web3 Foundation contributes to and funds research and development in web3 techno
 
 ### 👷🏾‍♂️ Decentralized Construction
 - [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
+- [Blockchain Technology: Implications and Opportunities for Professional Engineers](https://www.nspe.org/sites/default/files/resources/pdfs/NSPE-Whitepaper-Blockchain-Technology-2016-final.pdf) - NSPE white paper about blockchain technology and professional licensure.
 
 - [Build3 Foundation](https://www.build3.foundation) A foundation claiming the ethical imperative to pursue blockchain in the practice of engineering.
 
