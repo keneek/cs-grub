@@ -80,7 +80,7 @@ Web3 Foundation contributes to and funds research and development in web3 techno
 
 - [Finality Grandpa Gadget](https://research.web3.foundation/en/latest/polkadot/finality.html) A protocol that can be used to provide proveable finality for a blockchain.
 - [BABE](https://research.web3.foundation/en/latest/polkadot/block-production/Babe.html) How Polkadot produces relay chain blocks using Blind Assignment for Blockchain Extension protocol, abbreviated as BABE.
-- 
+
 ### 🆔 Self-Sovereign Identity
 - [Hyperledger Foundation](https://www.hyperledger.org/use/hyperledger-indy) Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or otehr distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo.
 
