@@ -1,9 +1,9 @@
 # 🌮 Web3 Grub for Developers
-Excellent information, articles, tools, and other internet finds for building applications focused on blockchain integrations. This list favors python when possible.
+Excellent information, articles, tools, and other resources for building web3 applications.
 
-If you are just starting this journey, be prepared to take on [Solidity](https://docs.soliditylang.org/en/v0.8.11/) and [Rust](https://www.rust-lang.org/). It may be best to start in Solidity and familiarize yourself with smart contracts on the Ethereum network. Many of those tools will be applicable if you decide to move from contract development into chain dev with [Substrate](https://substrate.io/). 
+If you are just starting this journey, **be prepared to learn [Rust](https://www.rust-lang.org/)**. If writing for ETH smart contracts, then you should also study [Solidity](https://docs.soliditylang.org/en/v0.8.12/). If writing a new blockchain as a stand alone application or as part of the [Polkadot](https://polkadot.network) network, then you will need to spend time learning [Substrate](https://substrate.io/) framework. 
 
-*Note: popular languages for programming native chain or para chain (like Polkadot) requires knowledge of [Substrate](https://substrate.io/), [Rust](https://www.rust-lang.org/), [Node](https://nodejs.org/en/), and [Solidity](https://docs.soliditylang.org/en/v0.8.11/). That said, this list is python-leaning and includes references when Python packages when unavailable (eg `web3.py`, `FastAPI`, etc).*
+Below is a list of resources I've used to learn the fundamentals for each of the topics.
 
 ## 👾 Fundamentals for Web3
 
@@ -16,23 +16,11 @@ If you already understand these concepts, just skip to the lists below. These ar
 - [What is Polkadot?](https://www.youtube.com/watch?v=YlAdEQp6ekM&feature=youtu.be) DOT explained with animations.
 - [Blockchain Consensus Mechanisms](https://tokens-economy.gitbook.io/consensus/) Tokens economy information regarding the kinds of consensus methods known.
 
-
-### 💠 [Etherium](https://ethereum.org/en/)
-#### 🧰 Tools
-- [Solidity](https://docs.soliditylang.org/en/v0.8.11/) Solidity is an object-oriented, high-level lanugage for implimenting smart contracts.
-- [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
-- [openzeppelin](https://openzeppelin.com/) has a library of open sourced, battle-tested Solidity contracts with dev tools to help understand how to compile, deploy, and test them.
-
-#### 🧑🏻‍🏫 Useful Tutorials
-- [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
-- [ERC20](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
-- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
-
-
-### 👩‍🏭 [Rust](https://www.rust-lang.org/)
+### 🦀 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
 
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/) Read the first three chapters before diving into Substrate if you are unfamiliar with Rust.
+- [Rust Cheat Sheet](https://cheats.rs/) Quick reference to Rust syntax.
 
 ### ⚗️ [Substrate_](https://substrate.io/)
 The Substrate framework is a modular framework for custom blockchains built using Rust and Wasm. Very powerful runtime, which includes **on-chain upgrades** (the run time source is stored on chain and can be updated on chain).
@@ -57,7 +45,6 @@ The Substrate framework is a modular framework for custom blockchains built usin
 ### 🖋 [ink](https://github.com/paritytech/ink)!
 Ink is Parity's contract writing language for Substrate based block chain.
 
-
 ### ⚪️ [Polkadot](https://www.polkadot.network)
 Polkadot is a cross-chain network built on the Substrate framework with powerful governance features and other features like para chains, etc.
 
@@ -68,6 +55,17 @@ Polkadot is a cross-chain network built on the Substrate framework with powerful
 #### 🌕 [Moonbeam](https://docs.moonbeam.network/)
 A Polkadot para chain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including web3.py, etc., and interact on the chain with virtually the same source code used for an Ethereum smart contract, but includes the benefit of the para chain features of Polkadot.
 - [Moonbeam, Remix, OpenZeppelin](https://docs.moonbeam.network/builders/interact/oz-remix/) Using OpenZeppelin Contracts and Remiz to Deploy To Moonbeam.
+
+### 💠 [Etherium](https://ethereum.org/en/)
+#### 🧰 Tools
+- [Solidity](https://docs.soliditylang.org/en/v0.8.11/) Solidity is an object-oriented, high-level lanugage for implimenting smart contracts.
+- [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
+- [openzeppelin](https://openzeppelin.com/) has a library of open sourced, battle-tested Solidity contracts with dev tools to help understand how to compile, deploy, and test them.
+
+#### 🧑🏻‍🏫 Useful Tutorials
+- [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
+- [ERC20](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
+- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
 
 ### 💫 [Holochain](https://developer.holochain.org/concepts/)
 ### 💽 [IPFS](https://ipfs.io/)
