@@ -31,13 +31,13 @@ The Substrate framework is a modular framework for custom blockchains built usin
 - [Polkadot.js](https://polkadot.js.org/docs/) Frontend development framework to interface with substrate_ nodes.
 - [Example Contracts Note](https://github.com/paritytech/substrate-contracts-node) A template node with the contracts pallet imported.
 
-#### Useful Workshops
-##### Recent and up to date
+#### Substrate_ Workshops
+##### up-to-date
 - [Blockchain Framework in Rust - Workshop](https://www.youtube.com/watch?v=NrG3co6UWEg) 16 Feb 2022 livestream of using substrate to build blockchain with substrate.
     - [Denver Substrate Collectables Workshop](https://sacha-l.github.io/collectables-ethdenver-workshop/#/) the workshop documentation for the link above.
 - [Official Substrate Tutorials](https://docs.substrate.io/tutorials/v3/) is a series of the official Substrate tutorials with great examples and use cases.
 
-##### Useful, somewhat dated:
+##### somewhat dated, still useful:
 - [Substrate Recipes Workshop](https://www.youtube.com/watch?v=KVJIWxZSNHQ) Learn to Build a Custom Blockchain
 - [Substrate How-to Guides](https://docs.substrate.io/how-to-guides/v3/) Includes guidance on building recipes, other exmaples.
 - [Substrate Recipes](https://substrate.recipes/) a hands-on cookbook for aspiring blockchain chefs, by [Josh Orndorff](https://github.com/JoshOrndorff). Josh Orndorff also published a repo of example [recipes](https://github.com/JoshOrndorff/recipes).
