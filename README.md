@@ -41,6 +41,7 @@ The Substrate framework is a modular framework for custom blockchains built usin
 - [Substrate Developer Hub](https://github.com/substrate-developer-hub) Repo's and tools for the dev community.
 - [Substrate Community Questions](https://substrate.stackexchange.com/) StackExchange account targeted toward answering questions about Substrate.
 - [Polkadot.js](https://polkadot.js.org/docs/) Frontend development framework to interface with substrate_ nodes.
+- [Example Contracts Note](https://github.com/paritytech/substrate-contracts-node) A template node with the contracts pallet imported.
 
 #### Useful Workshops
 ##### Recent and up to date
