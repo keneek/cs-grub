@@ -19,8 +19,8 @@ If you already understand these concepts, just skip to the lists below. These ar
 ### 🦀 [Rust](https://www.rust-lang.org/)
 Substrate sits on Rust, so implementing Substrate requires working knowledge of the language. Below are some resources to get things going.
 
-- [Functions, Closures, and Their Traits](https://www.youtube.com/watch?v=dHkzSZnYXmk) A must watch video to understanding some of the awkward synstax in Rust, particularly the generics features.
 - [Rust Quick Points Guide](https://permitzip.gitbook.io/rust-study/entry-topics/about) The Rust Programming Language Book, but boiled down to quick hitting major topics with the same examples, just trimmed down to get a quick overview. Intended as a brief syntax and feature overview.
+- [Functions, Closures, and Their Traits](https://www.youtube.com/watch?v=dHkzSZnYXmk) A must watch video to understanding some of the awkward synstax in Rust, particularly the generics features.
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/) Read the first three chapters before diving into Substrate if you are unfamiliar with Rust.
 - [Rust Cheat Sheet](https://cheats.rs/) Quick reference to Rust syntax.
 
