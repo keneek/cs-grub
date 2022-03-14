@@ -112,6 +112,8 @@ Web3 Foundation contributes to and funds research and development in web3 techno
 - [BuildCoin](https://www.buildcoinfoundation.org/buildcoin-ecosystem/)
 An organization with proposed engines and protocols for the construction industry. Nonprofit.
 
+- [DigiBuild](https://digibuild.com/) A construction industry blockchain company.
+
 ## 🎧 Other Cool Stuff
 - [WakaTime](https://wakatime.com/) - Cool BI productivity tracker tracks what IDE, project, language, etc., is being worked on by the dev team in real-time. Great looking analytics.
 - [libp2p](https://libp2p.io/) - Run your network applications free from runtime and address services, independently of their location.
