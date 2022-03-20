@@ -1,4 +1,4 @@
-# 🌮 Web3 Grub for Developers
+# 🌮 Web3 Grub for Substrate Developers
 Excellent information, articles, tools, and other resources for building web3 applications for [Substrate](https://substrate.io/). A few other useful links related to web3 in general.
 
 If you are just starting this journey, **be prepared to learn [Rust](https://www.rust-lang.org/)**. You will spend a lot of time learning [Substrate](https://substrate.io/) framework which is all written in Rust. 
