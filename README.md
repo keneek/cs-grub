@@ -1,7 +1,7 @@
 # 🌮 Web3 Grub for Developers
-Excellent information, articles, tools, and other resources for building web3 applications.
+Excellent information, articles, tools, and other resources for building web3 applications for [Substrate](https://substrate.io/). A few other useful links related to web3 in general.
 
-If you are just starting this journey, **be prepared to learn [Rust](https://www.rust-lang.org/)**. If writing for ETH smart contracts, then you should also study [Solidity](https://docs.soliditylang.org/en/v0.8.12/). If writing a new blockchain as a stand alone application or as part of the [Polkadot](https://polkadot.network) network, then you will need to spend time learning [Substrate](https://substrate.io/) framework. 
+If you are just starting this journey, **be prepared to learn [Rust](https://www.rust-lang.org/)**. You will spend a lot of time learning [Substrate](https://substrate.io/) framework which is all written in Rust. 
 
 Below is a list of resources I've used to learn the fundamentals for each of the topics.
 
@@ -48,6 +48,9 @@ The Substrate framework is a modular framework for custom blockchains built usin
 ### 🖋 [ink](https://github.com/paritytech/ink)!
 Ink is Parity's contract writing language for Substrate based block chain.
 
+### ➬ [polkadot-js](https://polkadot.js.org/docs/) 
+Front End development for connecting to Polkadot or any substrate_-based blockchain. 
+
 ### ⚪️ [Polkadot](https://www.polkadot.network)
 Polkadot is a cross-chain network built on the Substrate framework with powerful governance features and other features like para chains, etc.
 
@@ -55,22 +58,6 @@ Polkadot is a cross-chain network built on the Substrate framework with powerful
 - [Polkadot Governance](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24734s) Dr. Gavin Wood presents the initial governance structure for Polkadot. (Video)
 - [Polkadot Paper](https://polkadot.network/PolkaDotPaper.pdf) Dr. Gavin Wood's `Polkadot Paper` about Polkadot introducing para chains and other new ideas for governance, proof of stake (*nominated proof of stake*), and other novel ideas about exensible block chain future.
 
-#### 🌕 [Moonbeam](https://docs.moonbeam.network/)
-A Polkadot para chain which where Solidity contracts can deploy and operate. Moonbeam allows you to develop using the traditional tools from ETH, including web3.py, etc., and interact on the chain with virtually the same source code used for an Ethereum smart contract, but includes the benefit of the para chain features of Polkadot.
-- [Moonbeam, Remix, OpenZeppelin](https://docs.moonbeam.network/builders/interact/oz-remix/) Using OpenZeppelin Contracts and Remiz to Deploy To Moonbeam.
-
-### 💠 [Etherium](https://ethereum.org/en/)
-#### 🧰 Tools
-- [Solidity](https://docs.soliditylang.org/en/v0.8.11/) Solidity is an object-oriented, high-level lanugage for implimenting smart contracts.
-- [Ganache](https://www.npmjs.com/package/ganache) is an Ethereum simulator for developing applications.
-- [openzeppelin](https://openzeppelin.com/) has a library of open sourced, battle-tested Solidity contracts with dev tools to help understand how to compile, deploy, and test them.
-
-#### 🧑🏻‍🏫 Useful Tutorials
-- [Dev Setup for Etherium](https://levelup.gitconnected.com/dapps-development-for-python-developers-f52b32b54f28) is an excellent reference for setting up a modern development setup.
-- [ERC20](https://www.youtube.com/watch?v=8rpir_ZSK1g) Quick overview on configuring ERC20 tokens, adding supply, and sending to a wallet.
-- [User Contract](https://www.innoplexus.com/blog/how-to-develop-ethereum-contract-using-python-flask/) A contract for persisting user data to chain. Note: uses some outdated libraries, but still a decent use case example.
-
-### 💫 [Holochain](https://developer.holochain.org/concepts/)
 ### 💽 [IPFS](https://ipfs.io/)
 A peer-to-peer hypermedia protocol for distributed data storage with unique finger prints. Use cases include archivists, researchhers, blockchain developers, content creators, offlien users, and more.
 
