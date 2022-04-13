@@ -102,6 +102,8 @@ An organization with proposed engines and protocols for the construction industr
 
 - [DigiBuild](https://digibuild.com/) A construction industry blockchain company.
 
+- [BuilderChain](https://builderchain.io/manifesto) A construction industry blockchain.
+
 ## 🎧 Other Cool Stuff
 - [WakaTime](https://wakatime.com/) - Cool BI productivity tracker tracks what IDE, project, language, etc., is being worked on by the dev team in real-time. Great looking analytics.
 - [libp2p](https://libp2p.io/) - Run your network applications free from runtime and address services, independently of their location.
